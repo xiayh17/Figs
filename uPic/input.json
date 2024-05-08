@@ -1,0 +1,13 @@
+{
+    "ana_user": "John Doe",
+    "ai_user": "OpenAI GPT-3.5",
+    "samples_pca_by_type_url": "https://cdn.jsdelivr.net/gh/xiayh17/Figs@main/uPic/1-run_check_all_samples_PCA_by_type.png",
+    "density_gene_expr_url": "https://cdn.jsdelivr.net/gh/xiayh17/Figs@main/uPic/1-run_check_density.png",
+    "deg_analysis_methods": "DESeq2",
+    "deg_volcano_plot": "https://cdn.jsdelivr.net/gh/xiayh17/Figs@main/uPic/2-runDEG_DESeq2_volcano.png",
+    "deg_table": "https://cdn.jsdelivr.net/gh/xiayh17/Figs@main/uPic/2-runDEG_DESeq2_results.csv",
+    "kegg_pathway_enrichment": "https://cdn.jsdelivr.net/gh/xiayh17/Figs@main/uPic/3-runHyper_KEGG_Up.png",
+    "kegg_table": "https://cdn.jsdelivr.net/gh/xiayh17/Figs@main/uPic/3-runHyper_KEGG_DESeq2_Up_Gene.csv",
+    "go_enrichment": "https://cdn.jsdelivr.net/gh/xiayh17/Figs@main/uPic/3-runHyper_GO_Uppng.png",
+    "go_table": "https://cdn.jsdelivr.net/gh/xiayh17/Figs@main/uPic/3-runHyper_GO_DESeq2_Up_Gene.csv"
+  }
